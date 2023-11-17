@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1000,
       "createdAt": "2023-11-10T12:20:20.788Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 7000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-17T14:02:58.533Z",
+      "id": 4
+    },
+    {
+      "description": "Picolé",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-17T14:05:02.031Z",
+      "id": 5
+    },
+    {
+      "description": "Coxinha",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-17T15:46:04.193Z",
+      "id": 6
     }
   ]
 }
